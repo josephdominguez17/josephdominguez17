@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josephdominguez17
 - 👀 I’m interested in software and mobile development 
 - 🌱 I’m currently learning Swift 
-- 💞️ I’m looking to collaborate on new development projects in Sydney
+- 💞️ I’m looking to collaborate on new development projects in Australia
 - 📫 Please send me an email to manolodi1@hotmail.com
 
 <!---
